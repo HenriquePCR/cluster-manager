@@ -1,0 +1,19 @@
+{
+  "name": "trab-sd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "ioredis": "^5.4.1",
+    "node-fetch": "^3.3.2",
+    "redis": "^4.7.0",
+    "uuid": "^10.0.0"
+  }
+}
